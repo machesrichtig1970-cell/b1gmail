@@ -1,4 +1,3 @@
-<?php 
 /*
  * b1gMail7 server test
  * (c) 2002-2018 B1G Software
